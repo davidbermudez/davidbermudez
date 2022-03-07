@@ -8,6 +8,8 @@ Esta es la página personal (Página de usuario) de [davidbermudez](https://gith
 
 Es tan sencillo como escribir en formato **markdown** en un archivo con nombre index.md colocado en el directorio de inicio
 
+También puedes ver esta página creada en html con nuestros propios estilos css: [ver](personal.html)
+
 ### Enlaces de interés
 
 A continuación creamos una lista numerada para insertar páginas interesantes:
