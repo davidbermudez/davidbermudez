@@ -4,3 +4,7 @@ ol li {
     border-radius: 5px;
     margin-top: 2px;
 }
+
+img {
+    border-radius: 50%;
+}
